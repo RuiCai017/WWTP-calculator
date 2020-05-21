@@ -9,5 +9,5 @@ upload two excel calculation sheets for ASM1/ASM3/ASAL algorithm.
 Currenctly plan to re-write the code in python based on these sheets.
 
 05/21/2020  
-1.fix an error for calculation hydrolysis of entrapped organic nitrogen in ASM excel sheet.  
-
+1.fix an error for calculation hydrolysis of entrapped organic nitrogen in ASM excel sheet.   
+2.complete a python code for simulating batch experiments using ASM1.   
