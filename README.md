@@ -1,5 +1,5 @@
 # WWTP-calculator
-A rough for activated sludge tank, still under working.
+A calculator for activated sludge tank, still under working.
 
 05/04/2020
 just a simple ASAL model to calculate oxygen uptake rate for an assumed WWTP steady state operation.
