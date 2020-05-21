@@ -6,7 +6,7 @@ just a simple ASAL model to calculate oxygen uptake rate for an assumed WWTP ste
 
 05/19/2020
 upload two excel calculation sheets for ASM1/ASM3/ASAL algorithm. 
-Currenctly planing to re-write the code in python based on these sheets.
+Currenctly plan to re-write the code in python based on these sheets.
 
 05/21/2020
 1.fix an error for calculation hydrolysis of entrapped organic nitrogen in ASM excel sheet.
