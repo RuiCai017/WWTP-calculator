@@ -14,3 +14,6 @@ Currenctly plan to re-write the code in python based on these sheets.
 
 06/09/2020  
 Add aeration control part (constant and on and off control) for comparison different aeration strategy performance. 
+
+06/18/202  
+Add a simple model (DO/BOD/MLSS) curve_fit ipynb 
